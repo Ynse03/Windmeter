@@ -23,7 +23,7 @@ int n = 1;
 
 LiquidCrystal_I2C  lcd(I2C_ADDR,En_pin,Rw_pin,Rs_pin,D4_pin,D5_pin,D6_pin,D7_pin);
 
-int serial_in;
+//int serial_in;
 
 //Setup Variables windmeter
 
